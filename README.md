@@ -1,4 +1,4 @@
-# 🎉 TLD-ALL Scanner V1.0
+<h1 align="center">🎉 TLD-ALL Scanner V1.0</h1>
 <p> A simple scanner where you just give keyword and based on that keyword it will fetch all domain ,if you give keyword "test" then it will load TLD's like test.com...test.us etc and that too with latest IANA domains list so no need to worry about updating this tool again and again.</p>
 
 
