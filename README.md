@@ -3,10 +3,12 @@
 
 
 <p align="center">
-  <img src="https://shravanprojects.github.io/tld-scanner-all/tld-scanner-all.gif" alt="TLD Scanner Demo GIF" width="700"/>
+  <a href="https://shravanprojects.github.io/tld-scanner-all/tld-scanner-all.gif" target="_blank">
+    <img src="https://img.shields.io/badge/🎬%20Watch%20Live%20TLD%20Scanner%20Demo-Click%20Here-critical?style=for-the-badge&logo=playstation&logoColor=white&color=red" alt="Watch TLD Scanner GIF Demo"/>
+  </a>
 </p>
 
-<p align="center"><strong>Figure:</strong> Live demo of TLD-ALL Scanner in action</p>
+
 
 
 <p align="center">
@@ -130,6 +132,14 @@
 ---
 
 ## 🎬 Watch Tutorial Video (ASCII CINEMA)
+<p align="center">
+  <a href="https://shravanprojects.github.io/tld-scanner-all/tld-scanner-all.gif" target="_blank">
+    <img src="https://img.shields.io/badge/🎬%20Watch%20Live%20TLD%20Scanner%20Demo-Click%20Here-critical?style=for-the-badge&logo=playstation&logoColor=white&color=red" alt="Watch TLD Scanner GIF Demo"/>
+  </a>
+</p>
+
+
+
 Coming Soon...
 
 
