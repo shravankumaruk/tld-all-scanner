@@ -2,6 +2,11 @@
 <p> A simple scanner where you just give keyword and based on that keyword it will fetch all domain ,if you give keyword "test" then it will load TLD's like test.com...test.us etc and that too with latest IANA domains list so no need to worry about updating this tool again and again.</p>
 
 
+<p align="center">
+  <img src="https://shravanprojects.github.io/tld-scanner-all/tld-scanner-all.gif" alt="TLD Scanner Demo GIF" width="700"/>
+</p>
+
+<p align="center"><strong>Figure:</strong> Live demo of TLD-ALL Scanner in action</p>
 
 
 <p align="center">
