@@ -13,13 +13,13 @@
 
 <p align="center">
   <!-- GitHub Release Version -->
-  <img src="https://img.shields.io/github/v/release/shravankumaruk/tld-scanner?style=for-the-badge&label=Latest%20Release&color=brightgreen&logo=github" alt="Latest Release">
+  <img src="https://img.shields.io/github/v/release/shravankumaruk/tld-all-scanner?style=for-the-badge&label=Latest%20Release&color=brightgreen&logo=github" alt="Latest Release">
 
   <!-- GitHub Total Downloads -->
-  <img src="https://img.shields.io/github/downloads/shravankumaruk/tld-scanner/total?style=for-the-badge&color=blue&logo=github" alt="Total Downloads">
+  <img src="https://img.shields.io/github/downloads/shravankumaruk/tld-all-scanner/total?style=for-the-badge&color=blue&logo=github" alt="Total Downloads">
 
   <!-- GitHub Release Date -->
-  <img src="https://img.shields.io/github/release-date/shravankumaruk/tld-scanner?style=for-the-badge&label=Released&logo=calendar&color=purple" alt="Release Date">
+  <img src="https://img.shields.io/github/release-date/shravankumaruk/tld-all-scanner?style=for-the-badge&label=Released&logo=calendar&color=purple" alt="Release Date">
   </p>
 
 
